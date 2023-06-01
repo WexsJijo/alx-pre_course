@@ -1,2 +1,2 @@
 Repo-session
-changes from github UI
+How to be up to date in git
